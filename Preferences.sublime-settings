@@ -1,0 +1,10 @@
+{
+	"font_face": "Yahei Consolas Hybrid",
+	"font_size": 14,
+	"show_encoding": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
